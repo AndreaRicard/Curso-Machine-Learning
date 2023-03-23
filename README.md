@@ -1,4 +1,4 @@
-# Curso-Machine-Learning
+# Curso Machine Learning
 
 Código: Python
 
