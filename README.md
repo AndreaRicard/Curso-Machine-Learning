@@ -20,3 +20,8 @@ DÍA 3
 * ARC - M5 - 09 - Folium: Generar mapas, Mapas con indicadores, Mapas de Coropletas.
 
 * ARC - Prophet - Predecir el valor de la Plata, Entrenar el modelo.
+
+DÍA 4
+* ARC -  M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium: Análisis de ubicaciones, Marcar sitios en un mapa, Calcular las distancias entre dos sitios.
+
+* ARC - M5 - SPACEX2 - 6 - Machine Learning Predicciones: Predicción mediante aprendizaje automático, Importar librerias y Definir Funciones Auxiliares.
